@@ -3,13 +3,13 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "danila\\Trycatch\\": "src/"
+            "Airat\\Trycatch\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Danya",
-            "email": "nolimnolim581@gmail.com"
+            "name": "Airat",
+            "email": "AiratGaraevm@gmail.com"
         }
     ],
     "require-dev": {
