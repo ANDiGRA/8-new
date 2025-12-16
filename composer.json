@@ -1,0 +1,18 @@
+{
+    "name": "danila/trycatch",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "danila\\Trycatch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danya",
+            "email": "nolimnolim581@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
