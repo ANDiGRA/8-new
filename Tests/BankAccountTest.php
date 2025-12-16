@@ -1,6 +1,6 @@
 <?php
 
-use  danila\Trycatch\BankAccount;
+use airat\Trycatch\BankAccount;
 use PHPUnit\Framework\TestCase;
 use danila\Trycatch\InvalidAmountException;
 use danila\Trycatch\InsufficientFundsException;
