@@ -1,6 +1,6 @@
 <?php
 
-namespace danila\Trycatch;
+namespace airat\Trycatch;
 
 class BankAccount
 {
