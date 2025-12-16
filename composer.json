@@ -1,5 +1,5 @@
 {
-    "name": "danila/trycatch",
+    "name": "airat/trycatch",
     "type": "project",
     "autoload": {
         "psr-4": {
