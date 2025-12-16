@@ -2,8 +2,8 @@
 
 use airat\Trycatch\BankAccount;
 use PHPUnit\Framework\TestCase;
-use danila\Trycatch\InvalidAmountException;
-use danila\Trycatch\InsufficientFundsException;
+use airat\Trycatch\InvalidAmountException;
+use airat\Trycatch\InsufficientFundsException;
 
 
 class BankAccountTest extends TestCase
